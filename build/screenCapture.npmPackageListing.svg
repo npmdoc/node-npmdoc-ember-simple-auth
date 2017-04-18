@@ -1,175 +1,177 @@
-<svg height="2750" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="2750" fill="#555" width="720"></rect>
+<svg height="2782" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2782" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-06 20:51:00 +0000  1836765 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-06 20:51:00 +0000    29691 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-06 20:51:00 +0000     2229 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-06 20:51:00 +0000     1119 byte  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-06 20:51:00 +0000    22955 byte  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-06 20:51:00 +0000     6820 byte  addon/authenticators/base.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-06 20:51:00 +0000     7114 byte  addon/authenticators/devise.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-06 20:51:00 +0000    13464 byte  addon/authenticators/oauth2-password-grant.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-06 20:51:00 +0000      302 byte  addon/authenticators/test.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-06 20:51:00 +0000     3746 byte  addon/authenticators/torii.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-06 20:51:00 +0000     1692 byte  addon/authorizers/base.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-06 20:51:00 +0000     2189 byte  addon/authorizers/devise.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-06 20:51:00 +0000     1171 byte  addon/authorizers/oauth2-bearer.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-06 20:51:00 +0000     2780 byte  addon/configuration.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-06 20:51:00 +0000      161 byte  addon/initializers/setup-session-service.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-06 20:51:00 +0000      474 byte  addon/initializers/setup-session.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-06 20:51:00 +0000      612 byte  addon/instance-initializers/setup-session-restora\</tspan>
-<tspan x="10" y="298">tion.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-06 20:51:00 +0000     6920 byte  addon/internal-session.js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-06 20:51:00 +0000     4589 byte  addon/mixins/application-route-mixin.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-06 20:51:00 +0000     3568 byte  addon/mixins/authenticated-route-mixin.js</tspan>
-<tspan x="10" y="362"> 20.  2017-04-06 20:51:00 +0000     4082 byte  addon/mixins/data-adapter-mixin.js</tspan>
-<tspan x="10" y="378"> 21.  2017-04-06 20:51:00 +0000     2635 byte  addon/mixins/unauthenticated-route-mixin.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-06 20:51:00 +0000     8421 byte  addon/services/session.js</tspan>
-<tspan x="10" y="410"> 23.  2017-04-06 20:51:00 +0000     5371 byte  addon/session-stores/adaptive.js</tspan>
-<tspan x="10" y="426"> 24.  2017-04-06 20:51:00 +0000     2285 byte  addon/session-stores/base.js</tspan>
-<tspan x="10" y="442"> 25.  2017-04-06 20:51:00 +0000     8730 byte  addon/session-stores/cookie.js</tspan>
-<tspan x="10" y="458"> 26.  2017-04-06 20:51:00 +0000     1628 byte  addon/session-stores/ephemeral.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-06 20:51:00 +0000     2985 byte  addon/session-stores/local-storage.js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-06 20:51:00 +0000      207 byte  addon/utils/inject.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-06 20:51:00 +0000      183 byte  addon/utils/lookup.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-06 20:51:00 +0000     1108 byte  addon/utils/objects-are-equal.js</tspan>
-<tspan x="10" y="538"> 31.  2017-04-06 20:51:00 +0000      539 byte  app/initializers/ember-simple-auth.js</tspan>
-<tspan x="10" y="554"> 32.  2017-04-06 20:51:00 +0000      224 byte  app/instance-initializers/ember-simple-auth.js</tspan>
-<tspan x="10" y="570"> 33.  2017-04-06 20:51:00 +0000      188 byte  app/routes/application.js</tspan>
-<tspan x="10" y="586"> 34.  2017-04-06 20:51:00 +0000       97 byte  app/services/session.js</tspan>
-<tspan x="10" y="602"> 35.  2017-04-06 20:51:00 +0000      101 byte  app/session-stores/application.js</tspan>
-<tspan x="10" y="618"> 36.  2017-04-06 20:51:00 +0000       72 byte  blueprints/authenticator/files/__root__/authentic\</tspan>
-<tspan x="10" y="634">ators/__name__.js</tspan>
-<tspan x="10" y="650"> 37.  2017-04-06 20:51:00 +0000     2117 byte  blueprints/authenticator/index.js</tspan>
-<tspan x="10" y="666"> 38.  2017-04-06 20:51:00 +0000       72 byte  blueprints/authorizer/files/__root__/authorizers/\</tspan>
-<tspan x="10" y="682">__name__.js</tspan>
-<tspan x="10" y="698"> 39.  2017-04-06 20:51:00 +0000     1391 byte  blueprints/authorizer/index.js</tspan>
-<tspan x="10" y="714"> 40.  2017-04-06 20:51:00 +0000      159 byte  config/environment.js</tspan>
-<tspan x="10" y="730"> 41.  2017-04-06 20:51:00 +0000     1267 byte  docs/theme/assets/css/main.css</tspan>
-<tspan x="10" y="746"> 42.  2017-04-06 20:51:00 +0000   122540 byte  docs/theme/assets/vendor/css/bootstrap.min.css</tspan>
-<tspan x="10" y="762"> 43.  2017-04-06 20:51:00 +0000    26711 byte  docs/theme/assets/vendor/css/font-awesome.min.css</tspan>
-<tspan x="10" y="778"> 44.  2017-04-06 20:51:00 +0000     1633 byte  docs/theme/assets/vendor/css/github.css</tspan>
-<tspan x="10" y="794"> 45.  2017-04-06 20:51:00 +0000   106260 byte  docs/theme/assets/vendor/fonts/FontAwesome.otf</tspan>
-<tspan x="10" y="810"> 46.  2017-04-06 20:51:00 +0000    68875 byte  docs/theme/assets/vendor/fonts/fontawesome-webfon\</tspan>
-<tspan x="10" y="826">t.eot</tspan>
-<tspan x="10" y="842"> 47.  2017-04-06 20:51:00 +0000   355981 byte  docs/theme/assets/vendor/fonts/fontawesome-webfon\</tspan>
-<tspan x="10" y="858">t.svg</tspan>
-<tspan x="10" y="874"> 48.  2017-04-06 20:51:00 +0000   138204 byte  docs/theme/assets/vendor/fonts/fontawesome-webfon\</tspan>
-<tspan x="10" y="890">t.ttf</tspan>
-<tspan x="10" y="906"> 49.  2017-04-06 20:51:00 +0000    81284 byte  docs/theme/assets/vendor/fonts/fontawesome-webfon\</tspan>
-<tspan x="10" y="922">t.woff</tspan>
-<tspan x="10" y="938"> 50.  2017-04-06 20:51:00 +0000    64464 byte  docs/theme/assets/vendor/fonts/fontawesome-webfon\</tspan>
-<tspan x="10" y="954">t.woff2</tspan>
-<tspan x="10" y="970"> 51.  2017-04-06 20:51:00 +0000    20127 byte  docs/theme/assets/vendor/fonts/glyphicons-halflin\</tspan>
-<tspan x="10" y="986">gs-regular.eot</tspan>
-<tspan x="10" y="1002"> 52.  2017-04-06 20:51:00 +0000   108738 byte  docs/theme/assets/vendor/fonts/glyphicons-halflin\</tspan>
-<tspan x="10" y="1018">gs-regular.svg</tspan>
-<tspan x="10" y="1034"> 53.  2017-04-06 20:51:00 +0000    45404 byte  docs/theme/assets/vendor/fonts/glyphicons-halflin\</tspan>
-<tspan x="10" y="1050">gs-regular.ttf</tspan>
-<tspan x="10" y="1066"> 54.  2017-04-06 20:51:00 +0000    23424 byte  docs/theme/assets/vendor/fonts/glyphicons-halflin\</tspan>
-<tspan x="10" y="1082">gs-regular.woff</tspan>
-<tspan x="10" y="1098"> 55.  2017-04-06 20:51:00 +0000    18028 byte  docs/theme/assets/vendor/fonts/glyphicons-halflin\</tspan>
-<tspan x="10" y="1114">gs-regular.woff2</tspan>
-<tspan x="10" y="1130"> 56.  2017-04-06 20:51:00 +0000    36816 byte  docs/theme/assets/vendor/js/bootstrap.min.js</tspan>
-<tspan x="10" y="1146"> 57.  2017-04-06 20:51:00 +0000     9825 byte  docs/theme/assets/vendor/js/highlight.pack.js</tspan>
-<tspan x="10" y="1162"> 58.  2017-04-06 20:51:00 +0000    84344 byte  docs/theme/assets/vendor/js/jquery.min.js</tspan>
-<tspan x="10" y="1178"> 59.  2017-04-06 20:51:00 +0000      216 byte  docs/theme/helpers/helpers.js</tspan>
-<tspan x="10" y="1194"> 60.  2017-04-06 20:51:00 +0000     2506 byte  docs/theme/layouts/main.handlebars</tspan>
-<tspan x="10" y="1210"> 61.  2017-04-06 20:51:00 +0000     3880 byte  docs/theme/partials/classes.handlebars</tspan>
-<tspan x="10" y="1226"> 62.  2017-04-06 20:51:00 +0000     2273 byte  docs/theme/partials/events.handlebars</tspan>
-<tspan x="10" y="1242"> 63.  2017-04-06 20:51:00 +0000      456 byte  docs/theme/partials/index.handlebars</tspan>
-<tspan x="10" y="1258"> 64.  2017-04-06 20:51:00 +0000     2856 byte  docs/theme/partials/method.handlebars</tspan>
-<tspan x="10" y="1274"> 65.  2017-04-06 20:51:00 +0000      860 byte  docs/theme/partials/module.handlebars</tspan>
-<tspan x="10" y="1290"> 66.  2017-04-06 20:51:00 +0000     1088 byte  docs/theme/partials/props.handlebars</tspan>
-<tspan x="10" y="1306"> 67.  2017-04-06 20:51:00 +0000      260 byte  docs/theme/partials/sidebar.handlebars</tspan>
-<tspan x="10" y="1322"> 68.  2017-04-06 20:51:00 +0000      194 byte  docs/theme/partials/source_link.handlebars</tspan>
-<tspan x="10" y="1338"> 69.  2017-04-06 20:51:00 +0000       67 byte  docs/theme/theme.json</tspan>
-<tspan x="10" y="1354"> 70.  2017-04-06 20:51:00 +0000      432 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ap\</tspan>
-<tspan x="10" y="1370">p.js</tspan>
-<tspan x="10" y="1386"> 71.  2017-04-06 20:51:00 +0000      484 byte  fastboot-tests/fixtures/fastboot-ready-app/app/au\</tspan>
-<tspan x="10" y="1402">thenticators/auth.js</tspan>
-<tspan x="10" y="1418"> 72.  2017-04-06 20:51:00 +0000      191 byte  fastboot-tests/fixtures/fastboot-ready-app/app/co\</tspan>
-<tspan x="10" y="1434">ntrollers/application.js</tspan>
-<tspan x="10" y="1450"> 73.  2017-04-06 20:51:00 +0000      614 byte  fastboot-tests/fixtures/fastboot-ready-app/app/in\</tspan>
-<tspan x="10" y="1466">dex.html</tspan>
-<tspan x="10" y="1482"> 74.  2017-04-06 20:51:00 +0000       65 byte  fastboot-tests/fixtures/fastboot-ready-app/app/re\</tspan>
-<tspan x="10" y="1498">solver.js</tspan>
-<tspan x="10" y="1514"> 75.  2017-04-06 20:51:00 +0000      344 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ro\</tspan>
-<tspan x="10" y="1530">uter.js</tspan>
-<tspan x="10" y="1546"> 76.  2017-04-06 20:51:00 +0000      192 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ro\</tspan>
-<tspan x="10" y="1562">utes/application.js</tspan>
-<tspan x="10" y="1578"> 77.  2017-04-06 20:51:00 +0000      217 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ro\</tspan>
-<tspan x="10" y="1594">utes/authenticate.js</tspan>
-<tspan x="10" y="1610"> 78.  2017-04-06 20:51:00 +0000      301 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ro\</tspan>
-<tspan x="10" y="1626">utes/invalidate.js</tspan>
-<tspan x="10" y="1642"> 79.  2017-04-06 20:51:00 +0000      204 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ro\</tspan>
-<tspan x="10" y="1658">utes/login.js</tspan>
-<tspan x="10" y="1674"> 80.  2017-04-06 20:51:00 +0000      198 byte  fastboot-tests/fixtures/fastboot-ready-app/app/ro\</tspan>
-<tspan x="10" y="1690">utes/protected.js</tspan>
-<tspan x="10" y="1706"> 81.  2017-04-06 20:51:00 +0000       95 byte  fastboot-tests/fixtures/fastboot-ready-app/app/se\</tspan>
-<tspan x="10" y="1722">ssion-stores/application.js</tspan>
-<tspan x="10" y="1738"> 82.  2017-04-06 20:51:00 +0000        0 byte  fastboot-tests/fixtures/fastboot-ready-app/app/st\</tspan>
-<tspan x="10" y="1754">yles/app.css</tspan>
-<tspan x="10" y="1770"> 83.  2017-04-06 20:51:00 +0000       44 byte  fastboot-tests/fixtures/fastboot-ready-app/app/te\</tspan>
-<tspan x="10" y="1786">mplates/application.hbs</tspan>
-<tspan x="10" y="1802"> 84.  2017-04-06 20:51:00 +0000       11 byte  fastboot-tests/fixtures/fastboot-ready-app/app/te\</tspan>
-<tspan x="10" y="1818">mplates/authenticate.hbs</tspan>
-<tspan x="10" y="1834"> 85.  2017-04-06 20:51:00 +0000       39 byte  fastboot-tests/fixtures/fastboot-ready-app/app/te\</tspan>
-<tspan x="10" y="1850">mplates/index.hbs</tspan>
-<tspan x="10" y="1866"> 86.  2017-04-06 20:51:00 +0000       64 byte  fastboot-tests/fixtures/fastboot-ready-app/app/te\</tspan>
-<tspan x="10" y="1882">mplates/login.hbs</tspan>
-<tspan x="10" y="1898"> 87.  2017-04-06 20:51:00 +0000      164 byte  fastboot-tests/fixtures/fastboot-ready-app/app/te\</tspan>
-<tspan x="10" y="1914">mplates/protected.hbs</tspan>
-<tspan x="10" y="1930"> 88.  2017-04-06 20:51:00 +0000     1126 byte  fastboot-tests/fixtures/fastboot-ready-app/config\</tspan>
-<tspan x="10" y="1946">/environment.js</tspan>
-<tspan x="10" y="1962"> 89.  2017-04-06 20:51:00 +0000      432 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="1978">p/app.js</tspan>
-<tspan x="10" y="1994"> 90.  2017-04-06 20:51:00 +0000      484 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2010">p/authenticators/auth.js</tspan>
-<tspan x="10" y="2026"> 91.  2017-04-06 20:51:00 +0000      191 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2042">p/controllers/application.js</tspan>
-<tspan x="10" y="2058"> 92.  2017-04-06 20:51:00 +0000      614 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2074">p/index.html</tspan>
-<tspan x="10" y="2090"> 93.  2017-04-06 20:51:00 +0000       65 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2106">p/resolver.js</tspan>
-<tspan x="10" y="2122"> 94.  2017-04-06 20:51:00 +0000      344 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2138">p/router.js</tspan>
-<tspan x="10" y="2154"> 95.  2017-04-06 20:51:00 +0000      192 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2170">p/routes/application.js</tspan>
-<tspan x="10" y="2186"> 96.  2017-04-06 20:51:00 +0000      204 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2202">p/routes/login.js</tspan>
-<tspan x="10" y="2218"> 97.  2017-04-06 20:51:00 +0000      198 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2234">p/routes/protected.js</tspan>
-<tspan x="10" y="2250"> 98.  2017-04-06 20:51:00 +0000        0 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2266">p/styles/app.css</tspan>
-<tspan x="10" y="2282"> 99.  2017-04-06 20:51:00 +0000       44 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2298">p/templates/application.hbs</tspan>
-<tspan x="10" y="2314">100.  2017-04-06 20:51:00 +0000       11 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2330">p/templates/authenticate.hbs</tspan>
-<tspan x="10" y="2346">101.  2017-04-06 20:51:00 +0000       39 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2362">p/templates/index.hbs</tspan>
-<tspan x="10" y="2378">102.  2017-04-06 20:51:00 +0000       64 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2394">p/templates/login.hbs</tspan>
-<tspan x="10" y="2410">103.  2017-04-06 20:51:00 +0000      164 byte  fastboot-tests/fixtures/not-fastboot-ready-app/ap\</tspan>
-<tspan x="10" y="2426">p/templates/protected.hbs</tspan>
-<tspan x="10" y="2442">104.  2017-04-06 20:51:00 +0000     1130 byte  fastboot-tests/fixtures/not-fastboot-ready-app/co\</tspan>
-<tspan x="10" y="2458">nfig/environment.js</tspan>
-<tspan x="10" y="2474">105.  2017-04-06 20:51:00 +0000     1431 byte  fastboot-tests/graceful-regression-test.js</tspan>
-<tspan x="10" y="2490">106.  2017-04-06 20:51:00 +0000     2584 byte  fastboot-tests/integration-test.js</tspan>
-<tspan x="10" y="2506">107.  2017-04-06 20:51:00 +0000       76 byte  guides/assets/esa-initial-flow.config.json</tspan>
-<tspan x="10" y="2522">108.  2017-04-06 20:51:00 +0000     2411 byte  guides/assets/esa-initial-flow.txt</tspan>
-<tspan x="10" y="2538">109.  2017-04-06 20:51:00 +0000   120587 byte  guides/assets/esa-initial-flow.txt.png</tspan>
-<tspan x="10" y="2554">110.  2017-04-06 20:51:00 +0000   181626 byte  guides/assets/github-registering-oauth-applicatio\</tspan>
-<tspan x="10" y="2570">n.png</tspan>
-<tspan x="10" y="2586">111.  2017-04-06 20:51:00 +0000    20979 byte  guides/auth-torii-with-github.md</tspan>
-<tspan x="10" y="2602">112.  2017-04-06 20:51:00 +0000     4685 byte  guides/managing-current-user.md</tspan>
-<tspan x="10" y="2618">113.  2017-04-06 20:51:00 +0000     1078 byte  index.js</tspan>
-<tspan x="10" y="2634">114.  2017-04-06 20:51:00 +0000     5133 byte  package.json</tspan>
-<tspan x="10" y="2650">115.  2017-04-06 20:51:00 +0000      665 byte  server/index.js</tspan>
-<tspan x="10" y="2666">116.  2017-04-06 20:51:00 +0000      712 byte  server/mocks/accounts.js</tspan>
-<tspan x="10" y="2682">117.  2017-04-06 20:51:00 +0000      821 byte  server/mocks/posts.js</tspan>
-<tspan x="10" y="2698">118.  2017-04-06 20:51:00 +0000     1119 byte  server/mocks/token.js</tspan>
-<tspan x="10" y="2714">119.  2017-04-06 20:51:00 +0000      871 byte  test-support/helpers/ember-simple-auth.js</tspan>
-<tspan x="10" y="2730">120.  2017-04-06 20:51:00 +0000      254 byte  yuidoc.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 23:45:31 +0000  1837552 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 23:45:31 +0000    30014 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 23:45:31 +0000     2229 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 23:45:31 +0000     1119 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 23:45:31 +0000    22955 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 23:45:31 +0000     6820 bytes  addon/authenticators/base.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 23:45:31 +0000     7114 bytes  addon/authenticators/devise.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 23:45:31 +0000    13464 bytes  addon/authenticators/oauth2-password-grant.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 23:45:31 +0000      302 bytes  addon/authenticators/test.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 23:45:31 +0000     3746 bytes  addon/authenticators/torii.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 23:45:31 +0000     1692 bytes  addon/authorizers/base.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 23:45:31 +0000     2189 bytes  addon/authorizers/devise.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 23:45:31 +0000     1171 bytes  addon/authorizers/oauth2-bearer.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 23:45:31 +0000     2780 bytes  addon/configuration.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 23:45:31 +0000      161 bytes  addon/initializers/setup-session-service.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 23:45:31 +0000      474 bytes  addon/initializers/setup-session.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 23:45:31 +0000      612 bytes  addon/instance-initializers/setup-session-restor\</tspan>
+<tspan x="10" y="298">ation.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-18 23:45:31 +0000     6957 bytes  addon/internal-session.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-18 23:45:31 +0000     4589 bytes  addon/mixins/application-route-mixin.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-18 23:45:31 +0000     3931 bytes  addon/mixins/authenticated-route-mixin.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-18 23:45:31 +0000     4082 bytes  addon/mixins/data-adapter-mixin.js</tspan>
+<tspan x="10" y="378"> 21.  2017-04-18 23:45:31 +0000     2635 bytes  addon/mixins/unauthenticated-route-mixin.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-18 23:45:31 +0000     8421 bytes  addon/services/session.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-18 23:45:31 +0000     5371 bytes  addon/session-stores/adaptive.js</tspan>
+<tspan x="10" y="426"> 24.  2017-04-18 23:45:31 +0000     2285 bytes  addon/session-stores/base.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-18 23:45:31 +0000     8730 bytes  addon/session-stores/cookie.js</tspan>
+<tspan x="10" y="458"> 26.  2017-04-18 23:45:31 +0000     1628 bytes  addon/session-stores/ephemeral.js</tspan>
+<tspan x="10" y="474"> 27.  2017-04-18 23:45:31 +0000     2985 bytes  addon/session-stores/local-storage.js</tspan>
+<tspan x="10" y="490"> 28.  2017-04-18 23:45:31 +0000      207 bytes  addon/utils/inject.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-18 23:45:31 +0000      183 bytes  addon/utils/lookup.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-18 23:45:31 +0000     1108 bytes  addon/utils/objects-are-equal.js</tspan>
+<tspan x="10" y="538"> 31.  2017-04-18 23:45:31 +0000      539 bytes  app/initializers/ember-simple-auth.js</tspan>
+<tspan x="10" y="554"> 32.  2017-04-18 23:45:31 +0000      224 bytes  app/instance-initializers/ember-simple-auth.js</tspan>
+<tspan x="10" y="570"> 33.  2017-04-18 23:45:31 +0000      188 bytes  app/routes/application.js</tspan>
+<tspan x="10" y="586"> 34.  2017-04-18 23:45:31 +0000       97 bytes  app/services/session.js</tspan>
+<tspan x="10" y="602"> 35.  2017-04-18 23:45:31 +0000      101 bytes  app/session-stores/application.js</tspan>
+<tspan x="10" y="618"> 36.  2017-04-18 23:45:31 +0000       72 bytes  blueprints/authenticator/files/__root__/authenti\</tspan>
+<tspan x="10" y="634">cators/__name__.js</tspan>
+<tspan x="10" y="650"> 37.  2017-04-18 23:45:31 +0000     2117 bytes  blueprints/authenticator/index.js</tspan>
+<tspan x="10" y="666"> 38.  2017-04-18 23:45:31 +0000       72 bytes  blueprints/authorizer/files/__root__/authorizers\</tspan>
+<tspan x="10" y="682">/__name__.js</tspan>
+<tspan x="10" y="698"> 39.  2017-04-18 23:45:31 +0000     1391 bytes  blueprints/authorizer/index.js</tspan>
+<tspan x="10" y="714"> 40.  2017-04-18 23:45:31 +0000      162 bytes  bower.json.ember-try</tspan>
+<tspan x="10" y="730"> 41.  2017-04-18 23:45:31 +0000      159 bytes  config/environment.js</tspan>
+<tspan x="10" y="746"> 42.  2017-04-18 23:45:31 +0000     1267 bytes  docs/theme/assets/css/main.css</tspan>
+<tspan x="10" y="762"> 43.  2017-04-18 23:45:31 +0000   122540 bytes  docs/theme/assets/vendor/css/bootstrap.min.css</tspan>
+<tspan x="10" y="778"> 44.  2017-04-18 23:45:31 +0000    26711 bytes  docs/theme/assets/vendor/css/font-awesome.min.cs\</tspan>
+<tspan x="10" y="794">s</tspan>
+<tspan x="10" y="810"> 45.  2017-04-18 23:45:31 +0000     1633 bytes  docs/theme/assets/vendor/css/github.css</tspan>
+<tspan x="10" y="826"> 46.  2017-04-18 23:45:31 +0000   106260 bytes  docs/theme/assets/vendor/fonts/FontAwesome.otf</tspan>
+<tspan x="10" y="842"> 47.  2017-04-18 23:45:31 +0000    68875 bytes  docs/theme/assets/vendor/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="858">nt.eot</tspan>
+<tspan x="10" y="874"> 48.  2017-04-18 23:45:31 +0000   355981 bytes  docs/theme/assets/vendor/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="890">nt.svg</tspan>
+<tspan x="10" y="906"> 49.  2017-04-18 23:45:31 +0000   138204 bytes  docs/theme/assets/vendor/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="922">nt.ttf</tspan>
+<tspan x="10" y="938"> 50.  2017-04-18 23:45:31 +0000    81284 bytes  docs/theme/assets/vendor/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="954">nt.woff</tspan>
+<tspan x="10" y="970"> 51.  2017-04-18 23:45:31 +0000    64464 bytes  docs/theme/assets/vendor/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="986">nt.woff2</tspan>
+<tspan x="10" y="1002"> 52.  2017-04-18 23:45:31 +0000    20127 bytes  docs/theme/assets/vendor/fonts/glyphicons-halfli\</tspan>
+<tspan x="10" y="1018">ngs-regular.eot</tspan>
+<tspan x="10" y="1034"> 53.  2017-04-18 23:45:31 +0000   108738 bytes  docs/theme/assets/vendor/fonts/glyphicons-halfli\</tspan>
+<tspan x="10" y="1050">ngs-regular.svg</tspan>
+<tspan x="10" y="1066"> 54.  2017-04-18 23:45:31 +0000    45404 bytes  docs/theme/assets/vendor/fonts/glyphicons-halfli\</tspan>
+<tspan x="10" y="1082">ngs-regular.ttf</tspan>
+<tspan x="10" y="1098"> 55.  2017-04-18 23:45:31 +0000    23424 bytes  docs/theme/assets/vendor/fonts/glyphicons-halfli\</tspan>
+<tspan x="10" y="1114">ngs-regular.woff</tspan>
+<tspan x="10" y="1130"> 56.  2017-04-18 23:45:31 +0000    18028 bytes  docs/theme/assets/vendor/fonts/glyphicons-halfli\</tspan>
+<tspan x="10" y="1146">ngs-regular.woff2</tspan>
+<tspan x="10" y="1162"> 57.  2017-04-18 23:45:31 +0000    36816 bytes  docs/theme/assets/vendor/js/bootstrap.min.js</tspan>
+<tspan x="10" y="1178"> 58.  2017-04-18 23:45:31 +0000     9825 bytes  docs/theme/assets/vendor/js/highlight.pack.js</tspan>
+<tspan x="10" y="1194"> 59.  2017-04-18 23:45:31 +0000    84344 bytes  docs/theme/assets/vendor/js/jquery.min.js</tspan>
+<tspan x="10" y="1210"> 60.  2017-04-18 23:45:31 +0000      216 bytes  docs/theme/helpers/helpers.js</tspan>
+<tspan x="10" y="1226"> 61.  2017-04-18 23:45:31 +0000     2506 bytes  docs/theme/layouts/main.handlebars</tspan>
+<tspan x="10" y="1242"> 62.  2017-04-18 23:45:31 +0000     3880 bytes  docs/theme/partials/classes.handlebars</tspan>
+<tspan x="10" y="1258"> 63.  2017-04-18 23:45:31 +0000     2273 bytes  docs/theme/partials/events.handlebars</tspan>
+<tspan x="10" y="1274"> 64.  2017-04-18 23:45:31 +0000      456 bytes  docs/theme/partials/index.handlebars</tspan>
+<tspan x="10" y="1290"> 65.  2017-04-18 23:45:31 +0000     2856 bytes  docs/theme/partials/method.handlebars</tspan>
+<tspan x="10" y="1306"> 66.  2017-04-18 23:45:31 +0000      860 bytes  docs/theme/partials/module.handlebars</tspan>
+<tspan x="10" y="1322"> 67.  2017-04-18 23:45:31 +0000     1088 bytes  docs/theme/partials/props.handlebars</tspan>
+<tspan x="10" y="1338"> 68.  2017-04-18 23:45:31 +0000      260 bytes  docs/theme/partials/sidebar.handlebars</tspan>
+<tspan x="10" y="1354"> 69.  2017-04-18 23:45:31 +0000      194 bytes  docs/theme/partials/source_link.handlebars</tspan>
+<tspan x="10" y="1370"> 70.  2017-04-18 23:45:31 +0000       67 bytes  docs/theme/theme.json</tspan>
+<tspan x="10" y="1386"> 71.  2017-04-18 23:45:31 +0000      432 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/a\</tspan>
+<tspan x="10" y="1402">pp.js</tspan>
+<tspan x="10" y="1418"> 72.  2017-04-18 23:45:31 +0000      484 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/a\</tspan>
+<tspan x="10" y="1434">uthenticators/auth.js</tspan>
+<tspan x="10" y="1450"> 73.  2017-04-18 23:45:31 +0000      191 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/c\</tspan>
+<tspan x="10" y="1466">ontrollers/application.js</tspan>
+<tspan x="10" y="1482"> 74.  2017-04-18 23:45:31 +0000      614 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/i\</tspan>
+<tspan x="10" y="1498">ndex.html</tspan>
+<tspan x="10" y="1514"> 75.  2017-04-18 23:45:31 +0000       65 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1530">esolver.js</tspan>
+<tspan x="10" y="1546"> 76.  2017-04-18 23:45:31 +0000      344 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1562">outer.js</tspan>
+<tspan x="10" y="1578"> 77.  2017-04-18 23:45:31 +0000      192 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1594">outes/application.js</tspan>
+<tspan x="10" y="1610"> 78.  2017-04-18 23:45:31 +0000      217 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1626">outes/authenticate.js</tspan>
+<tspan x="10" y="1642"> 79.  2017-04-18 23:45:31 +0000      301 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1658">outes/invalidate.js</tspan>
+<tspan x="10" y="1674"> 80.  2017-04-18 23:45:31 +0000      204 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1690">outes/login.js</tspan>
+<tspan x="10" y="1706"> 81.  2017-04-18 23:45:31 +0000      198 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/r\</tspan>
+<tspan x="10" y="1722">outes/protected.js</tspan>
+<tspan x="10" y="1738"> 82.  2017-04-18 23:45:31 +0000       95 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/s\</tspan>
+<tspan x="10" y="1754">ession-stores/application.js</tspan>
+<tspan x="10" y="1770"> 83.  2017-04-18 23:45:31 +0000        0 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/s\</tspan>
+<tspan x="10" y="1786">tyles/app.css</tspan>
+<tspan x="10" y="1802"> 84.  2017-04-18 23:45:31 +0000       44 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/t\</tspan>
+<tspan x="10" y="1818">emplates/application.hbs</tspan>
+<tspan x="10" y="1834"> 85.  2017-04-18 23:45:31 +0000       11 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/t\</tspan>
+<tspan x="10" y="1850">emplates/authenticate.hbs</tspan>
+<tspan x="10" y="1866"> 86.  2017-04-18 23:45:31 +0000       39 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/t\</tspan>
+<tspan x="10" y="1882">emplates/index.hbs</tspan>
+<tspan x="10" y="1898"> 87.  2017-04-18 23:45:31 +0000       64 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/t\</tspan>
+<tspan x="10" y="1914">emplates/login.hbs</tspan>
+<tspan x="10" y="1930"> 88.  2017-04-18 23:45:31 +0000      164 bytes  fastboot-tests/fixtures/fastboot-ready-app/app/t\</tspan>
+<tspan x="10" y="1946">emplates/protected.hbs</tspan>
+<tspan x="10" y="1962"> 89.  2017-04-18 23:45:31 +0000     1126 bytes  fastboot-tests/fixtures/fastboot-ready-app/confi\</tspan>
+<tspan x="10" y="1978">g/environment.js</tspan>
+<tspan x="10" y="1994"> 90.  2017-04-18 23:45:31 +0000      432 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2010">pp/app.js</tspan>
+<tspan x="10" y="2026"> 91.  2017-04-18 23:45:31 +0000      484 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2042">pp/authenticators/auth.js</tspan>
+<tspan x="10" y="2058"> 92.  2017-04-18 23:45:31 +0000      191 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2074">pp/controllers/application.js</tspan>
+<tspan x="10" y="2090"> 93.  2017-04-18 23:45:31 +0000      614 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2106">pp/index.html</tspan>
+<tspan x="10" y="2122"> 94.  2017-04-18 23:45:31 +0000       65 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2138">pp/resolver.js</tspan>
+<tspan x="10" y="2154"> 95.  2017-04-18 23:45:31 +0000      344 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2170">pp/router.js</tspan>
+<tspan x="10" y="2186"> 96.  2017-04-18 23:45:31 +0000      192 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2202">pp/routes/application.js</tspan>
+<tspan x="10" y="2218"> 97.  2017-04-18 23:45:31 +0000      204 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2234">pp/routes/login.js</tspan>
+<tspan x="10" y="2250"> 98.  2017-04-18 23:45:31 +0000      198 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2266">pp/routes/protected.js</tspan>
+<tspan x="10" y="2282"> 99.  2017-04-18 23:45:31 +0000        0 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2298">pp/styles/app.css</tspan>
+<tspan x="10" y="2314">100.  2017-04-18 23:45:31 +0000       44 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2330">pp/templates/application.hbs</tspan>
+<tspan x="10" y="2346">101.  2017-04-18 23:45:31 +0000       11 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2362">pp/templates/authenticate.hbs</tspan>
+<tspan x="10" y="2378">102.  2017-04-18 23:45:31 +0000       39 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2394">pp/templates/index.hbs</tspan>
+<tspan x="10" y="2410">103.  2017-04-18 23:45:31 +0000       64 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2426">pp/templates/login.hbs</tspan>
+<tspan x="10" y="2442">104.  2017-04-18 23:45:31 +0000      164 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/a\</tspan>
+<tspan x="10" y="2458">pp/templates/protected.hbs</tspan>
+<tspan x="10" y="2474">105.  2017-04-18 23:45:31 +0000     1130 bytes  fastboot-tests/fixtures/not-fastboot-ready-app/c\</tspan>
+<tspan x="10" y="2490">onfig/environment.js</tspan>
+<tspan x="10" y="2506">106.  2017-04-18 23:45:31 +0000     1431 bytes  fastboot-tests/graceful-regression-test.js</tspan>
+<tspan x="10" y="2522">107.  2017-04-18 23:45:31 +0000     2584 bytes  fastboot-tests/integration-test.js</tspan>
+<tspan x="10" y="2538">108.  2017-04-18 23:45:31 +0000       76 bytes  guides/assets/esa-initial-flow.config.json</tspan>
+<tspan x="10" y="2554">109.  2017-04-18 23:45:31 +0000     2411 bytes  guides/assets/esa-initial-flow.txt</tspan>
+<tspan x="10" y="2570">110.  2017-04-18 23:45:31 +0000   120587 bytes  guides/assets/esa-initial-flow.txt.png</tspan>
+<tspan x="10" y="2586">111.  2017-04-18 23:45:31 +0000   181626 bytes  guides/assets/github-registering-oauth-applicati\</tspan>
+<tspan x="10" y="2602">on.png</tspan>
+<tspan x="10" y="2618">112.  2017-04-18 23:45:31 +0000    20979 bytes  guides/auth-torii-with-github.md</tspan>
+<tspan x="10" y="2634">113.  2017-04-18 23:45:31 +0000     4685 bytes  guides/managing-current-user.md</tspan>
+<tspan x="10" y="2650">114.  2017-04-18 23:45:31 +0000     1078 bytes  index.js</tspan>
+<tspan x="10" y="2666">115.  2017-04-18 23:45:31 +0000     5035 bytes  package.json</tspan>
+<tspan x="10" y="2682">116.  2017-04-18 23:45:31 +0000      665 bytes  server/index.js</tspan>
+<tspan x="10" y="2698">117.  2017-04-18 23:45:31 +0000      712 bytes  server/mocks/accounts.js</tspan>
+<tspan x="10" y="2714">118.  2017-04-18 23:45:31 +0000      821 bytes  server/mocks/posts.js</tspan>
+<tspan x="10" y="2730">119.  2017-04-18 23:45:31 +0000     1119 bytes  server/mocks/token.js</tspan>
+<tspan x="10" y="2746">120.  2017-04-18 23:45:31 +0000      871 bytes  test-support/helpers/ember-simple-auth.js</tspan>
+<tspan x="10" y="2762">121.  2017-04-18 23:45:31 +0000      254 bytes  yuidoc.json</tspan>
 </text>
 </svg>
